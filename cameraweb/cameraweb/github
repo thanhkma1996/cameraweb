@@ -1,0 +1,11 @@
+git remote add origin https://github.com/thanhkma1996/techhouse.github.io.git
+tk github : thanhkma1996 mk : nguyendinhthanh1996
+các lệnh git đơn giản
+git remote add origin https://github.com/thanhkma1996/thanh.github.io.git
+git init khởi Tạo
+giut add " file or thư mục " thêm file or thư mục lưu vào bộ nhớ tạm .git
+git remote add origin https://github.com/thanhkma1996/techhouse.github.io.git kết nối với github
+git status kiểm tra trạng thái
+git comit -m "" phải kí tên mới upload lên github được sau đó dùng git push
+git push origin master đẩy các file lên github
+git comit -m "chú thích " dùng để thêm những thay đổi lên github
